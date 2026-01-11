@@ -3,7 +3,7 @@
 A terminal-based Chinese learning game that combines:
 - Learning mode (grammar & vocabulary)
 - RPG-style battle mode
-- Learning through practice, not quizzes
+- Learning through practice
 
 ## Features
 - File-based vocabulary & grammar loading
