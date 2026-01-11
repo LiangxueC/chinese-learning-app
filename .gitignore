@@ -1,0 +1,5 @@
+build/
+*.o
+chinese_game
+.DS_Store
+
