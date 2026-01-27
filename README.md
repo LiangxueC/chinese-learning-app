@@ -65,6 +65,7 @@ This architecture allows individual components to evolve independently.
 ## How to Run
 g++ -std=c++17 src/core/*.cpp src/learn/*.cpp src/quiz/*.cpp src/main.cpp -o chinese_game
 ./chinese_game
+
 ---
 
 ## Project Status
