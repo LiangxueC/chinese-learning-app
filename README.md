@@ -71,7 +71,3 @@ g++ -std=c++17 src/core/*.cpp src/learn/*.cpp src/quiz/*.cpp src/main.cpp -o chi
 ## Project Status
 This project is actively evolving. Current development focuses on strengthening core system design and extensibility rather than expanding features.
 
----
-
-## Author
-Liangxue Chen
